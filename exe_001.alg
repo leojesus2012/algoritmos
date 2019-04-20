@@ -1,5 +1,5 @@
-algoritmo "Soma números"
-// Função :Faça um algoritmo que receba dois números e exiba o resultado da soma
+algoritmo "Soma nÃºmero"
+// FunÃ§Ã£o :FaÃ§a um algoritmo que receba dois nÃºmeros e exiba o resultado da soma
 // Autor :Leandro Jesus
 // Data : 19/4/2019
 
@@ -7,12 +7,12 @@ var
    num1, num2, soma:inteiro
 
 inicio
-   escreva("Digite o primeiro número: ")
+   escreva("Digite o primeiro nÃºmero: ")
    leia(num1)
-   escreva("Digite o segundo número: ")
+   escreva("Digite o segundo nÃºmero: ")
    leia(num2)
    soma <- num1+num2
    escreval("")
-   escreva("O resultado da soma dos dois números é: ", soma)
+   escreva("O resultado da soma dos dois nÃºmeros Ã©: ", soma)
 
 fimalgoritmo
